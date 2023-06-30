@@ -1,8 +1,8 @@
 # LindenLab
+Chen's code at LindenLab.
 
-## Chen's at LindenLab
-## ABR/AEP Project
+ABR/AEP Project
 
-## Longitudinal ABR Project
+Longitudinal ABR Project
 
-## Neuropixels Project
+Neuropixels Project
